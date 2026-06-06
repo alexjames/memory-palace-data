@@ -1,0 +1,11 @@
+repo:
+  owner: alexjames
+  name: memory-palace-data
+  branch: master
+topics:
+  - id: auth
+    title: auth
+    path: topics/eng/auth.md
+  - id: aws
+    title: aws
+    path: topics/eng/aws.md

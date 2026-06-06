@@ -1,4 +1,4 @@
 ### Updating Topics
 ```
-node scripts/generate-bootstrap.js
+node .\scripts\generate-bootstrap.js
 ```
