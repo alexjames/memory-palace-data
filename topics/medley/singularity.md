@@ -19,3 +19,6 @@
 
 ### Dyson Swarm
  * countless independent satellites travel in carefully calculated, non-intersecting orbits to form a massive energy-collecting grid around a star
+
+# Vocabulary
+ * **Ad hominem** (Latin for "to the person") is a logical fallacy and rhetorical strategy where a speaker attacks an opponent's character, motive, or personal traits instead of engaging with the actual substance of their argument.
